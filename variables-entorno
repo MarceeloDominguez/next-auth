@@ -1,0 +1,5 @@
+DATABASE_URL="url_db"
+
+NEXTAUTH_URL="http://localhost:3000"
+
+NEXTAUTH_SECRET="tu_llave_secreta_generada"
